@@ -37,3 +37,15 @@ console.log(a==y)
 
 console.log(a > y && z <y)
 
+// Arrays
+let student = ["Derrick",27,"married","orange"]
+
+console.log(student[2])
+
+// conditional 
+let p=10
+
+If (p==10){
+    console.log(true)
+}
+
